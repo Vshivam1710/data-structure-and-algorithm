@@ -1,6 +1,6 @@
 > # **Data Structure & Algorithms**
 
-> ## __About Something__
+> ## ***About Something***
 
 *`A computer program is a collection of instruction to perform specific task. For this, a computer may need to store data, and perform commputations on data.`*
 
@@ -11,3 +11,5 @@
 > ## ***Algorithms***
 
 _`An algorithm is a collection of steps to solve a particular problem.`_
+
+![My Image](https://picsum.photos/200/300)
