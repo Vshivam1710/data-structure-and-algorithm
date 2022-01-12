@@ -14,3 +14,4 @@
 
 _`An algorithm is a collection of steps to solve a particular problem.`_
 
+***Learning `Data Structure and Algorithm` allow us to write efficient and optimized computer programs.***
