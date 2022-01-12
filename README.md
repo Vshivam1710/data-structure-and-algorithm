@@ -12,4 +12,4 @@
 
 _`An algorithm is a collection of steps to solve a particular problem.`_
 
-![My Image](/home/shivam/Pictures/Wallpapers/god-6308823.jpg?raw=true "Title")
+![My Image](/images/god-6308823.jpg?raw=true "Title")
